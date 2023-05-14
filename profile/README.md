@@ -5,4 +5,4 @@ repository ownership changes between us and old/new repository owners.
 
 ## Request repository ownership transfers
 
-TOOO
+We're working on that soon. :)
